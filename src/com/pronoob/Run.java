@@ -17,7 +17,7 @@ public class Run {
             case 1 -> Opciones.ecuaciones();
             case 2 -> Opciones.binomioAlCuadrado();
             case 3 -> Opciones.areasYPerimetros();
-            default -> System.err.println("[!] Error, el rango va del...");
+            default -> System.err.println("[!] Error, el rango va del 1 al 3");
         }
     }
 }
