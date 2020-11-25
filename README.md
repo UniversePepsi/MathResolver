@@ -11,4 +11,8 @@
 
 [*]: Áreas y Perímetros de figuras geométricas.
 
-### _Proximamente más._
+# Changelog.
+### V0.1:
+_Se agrego funciones para resolver ecuaciones de primer y segundo grado._
+_Se agregaron funciones para resolver el cuadrado de un binomio_
+_Se agregaron funciones para averiguar Áreas y Perímetros de figuras geométricas_
